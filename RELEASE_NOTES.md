@@ -39,7 +39,7 @@
 > ```
 > Get-FileHash voice_local_agent_setup.exe -Algorithm SHA256
 > ```
-> `(빌드 후 채울 것 — 실제 업로드 파일과 반드시 일치해야 한다)`
+> `4C16F0AEF7DA819F562EFBF8FE22BB61956A60CD0223C802974F8315D21B80F0`
 
 ### ⚠️ 알려진 제한
 
